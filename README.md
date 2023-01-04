@@ -1,2 +1,2 @@
 # challenge11
-Component resolved with HTML - CSS - JS 
+Component resolved with HTML - Tailwind - JS 
